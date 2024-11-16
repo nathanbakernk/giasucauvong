@@ -1,0 +1,245 @@
+body {
+    background-color: #fff7fa;
+    font-family: "Open Sans", sans-serif;
+    color: #363636;
+    font-size: 15px;
+}
+.footer1 {
+    width: 450px;
+    float: left;
+    color: #ffffff;
+    background-color: #00cd97;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+.footer2 {
+    width: 450px;
+    float: right;
+    color: #ffffff;
+    background-color: #00cd97;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+.footerend {
+    background-color: #b0e3fd;
+    text-align: center;
+}
+
+.clr {
+    clear: both;
+}
+
+.contenttitle {
+    padding-top: 20px;
+    background-color: #e6e4e6;
+    margin-left: 10px;
+}
+caption,
+th,
+td {
+    font-weight: normal;
+}
+header,
+section,
+footer,
+aside,
+nav,
+article,
+figure {
+    display: block;
+}
+a,
+a:visited {
+    color: #2d3536;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: red;
+    text-decoration: none;
+}
+
+#dev7link {
+    position: absolute;
+    top: 0;
+    left: 50px;
+    background: url(../images/dev7logo.png) no-repeat;
+    width: 60px;
+    height: 67px;
+    border: 0;
+    display: block;
+    text-indent: -9999px;
+}
+
+img.titlebg {
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.space {
+    border: 1px solid #C2C1C1;
+    margin: -5px 2px 6px;
+    padding-left: 14px;
+    padding-top: 11px;
+    padding-bottom: 5px
+}
+
+.titlecontent {
+    padding-top: 10px;
+    color: #0000CD;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.category {
+    padding-bottom: 8px;
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+table.contentpaneopen {
+    padding-top: 5px;
+    line-height: 20px;
+}
+
+table br {
+    line-height: 11px;
+}
+
+ul.menustyle1 {
+    list-style: none;
+    color: #182dfe;
+    padding-left: 22px;
+    margin: -1px -1px 6px 1px;
+    border: 1px solid #C2C1C1;
+}
+
+ul.menustyle1b {
+    list-style: none;
+    color: #182dfe;
+    margin: -1px 3px 6px 1px;
+    border: 1px solid #C2C1C1;
+    padding-left: 23px;
+}
+
+ul.menustyle1 li a,
+ul.menustyle1b li a {
+    color: #0000CD;
+}
+
+ul.menustyle1 li,
+ul.menustyle1b li {
+    background-image: url(../images/arrow.jpg);
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    background-position: -3px 3px;
+    font-size: 15px;
+}
+
+ul.menustyle2 {
+    border: 1px solid #C2C1C1;
+    color: #182DFE;
+    font-size: 15px;
+    list-style: none outside none;
+    margin: -1px -1px 6px 2px;
+    padding: 0;
+    font-size: 13px;
+}
+
+.truycap {
+    border: 1px solid #C2C1C1;
+}
+
+.ads {
+    border: 1px solid #C2C1C1;
+    margin-left: 2px;
+    margin-right: 3px;
+    margin-top: -1px;
+    text-align: center;
+}
+
+ul.menustyle2 li a {
+    color: #363636;
+}
+
+ul.menustyle2 li,
+ul li.menustyle2 {
+    background: url("../images/danhmuc.png") repeat-y scroll 0 0 transparent;
+    height: 28px;
+    line-height: 32.7px;
+    text-decoration: none;
+    background-position: -2px 3px;
+    border-bottom: 1px solid #CECECE;
+    padding-left: 35px;
+}
+
+.copyright {
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-top: 3px;
+    display: none;
+}
+
+.kc {
+    padding-left: 20px;
+}
+
+#bors {
+    border: 1px solid #DDDDDD;
+    margin-top: 18px;
+    padding: 10px;
+    width: 605px;
+}
+
+#bor {
+    border: 1px solid #DDDDDD;
+    padding: 10px;
+}
+
+.selectsutdy {
+    padding-left: 455px;
+    position: absolute;
+    top: 610px;
+    z-index: 100;
+}
+
+.article_separator {
+    display: none;
+}
+
+div.componentheading {
+    color: #000000;
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+td.contentheading {
+    display: none;
+}
+
+img.more {
+    position: absolute;
+    padding-left: 485px;
+    margin-top: -50px;
+}
+
+.content p {
+    margin-bottom: 10px;
+}
