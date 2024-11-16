@@ -543,6 +543,8 @@
   };
 
   $(document).ready(function () {
+    console.log("da vao");
+
     $("#left-sidebar").load("left-sidebar.html");
     $("#right-sidebar").load("right-sidebar.html");
   });
